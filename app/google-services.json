@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513928012305",
+    "project_id": "login-register-firebase-cebcd",
+    "storage_bucket": "login-register-firebase-cebcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513928012305:android:45022c42903cbacc6107b0",
+        "android_client_info": {
+          "package_name": "com.example.myclothappnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCibSm63d_KdWK6wPWmNllp9U_bR-WTN_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
